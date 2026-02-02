@@ -3,5 +3,6 @@
   <Project Path="Collection/Collection.csproj" />
   <Project Path="DateAndTime/DateAndTime.csproj" />
   <Project Path="Exception/M1Exception.csproj" />
+  <Project Path="LibraryManagementSystem/LibraryManagementSystem.csproj" />
   <Project Path="PasswordGeneration/PasswordGeneration.csproj" />
 </Solution>
