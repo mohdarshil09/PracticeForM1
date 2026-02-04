@@ -4,6 +4,7 @@
   <Project Path="DateAndTime/DateAndTime.csproj" />
   <Project Path="Exception/M1Exception.csproj" />
   <Project Path="HotelRoomBookingSystem/HotelRoomBookingSystem.csproj" Id="8b75be52-0284-456c-b389-c1bd378fe0b9" />
+  <Project Path="Interface/Interface.csproj" Id="22750bf5-9654-468a-bb6c-3825785c9dc6" />
   <Project Path="LibraryManagementSystem/LibraryManagementSystem.csproj" />
   <Project Path="PasswordGeneration/PasswordGeneration.csproj" />
 </Solution>
