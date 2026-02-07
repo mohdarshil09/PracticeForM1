@@ -1,6 +1,7 @@
 <Solution>
   <Folder Name="/Complex Scenario-Based Coding Questions/">
     <Project Path="RateLimiter/RateLimiter.csproj" Id="d9370cef-72a9-4dfa-a93d-ff98588f1f99" />
+    <Project Path="ResilientPaymentGateway/ResilientPaymentGateway.csproj" />
   </Folder>
   <Project Path="01Strings/01Strings.csproj" />
   <Project Path="Collection/Collection.csproj" />

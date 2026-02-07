@@ -9,16 +9,20 @@ namespace RateLimiter
             var limiter = new SlidingWindowRateLimiter(maxRequests: 5, windowSeconds: 10);
 
             var now = DateTime.UtcNow;
-            Console.WriteLine(limiter.AllowRequest("client1", now));      
-            Console.WriteLine(limiter.AllowRequest("client1", now));      
-            Console.WriteLine(limiter.AllowRequest("client1", now));      
-            Console.WriteLine(limiter.AllowRequest("client1", now));      
-            Console.WriteLine(limiter.AllowRequest("client1", now));      
-            Console.WriteLine(limiter.AllowRequest("client1", now));      
-            Console.WriteLine(limiter.AllowRequest("client2", now));      
+            Console.WriteLine(limiter.AllowRequest("client1", now));      // true (1–5)
+            Console.WriteLine(limiter.AllowRequest("client1", now));      // true
+            Console.WriteLine(limiter.AllowRequest("client1", now));      // true
+            Console.WriteLine(limiter.AllowRequest("client1", now));      // true
+            Console.WriteLine(limiter.AllowRequest("client1", now));      // true
+            Console.WriteLine(limiter.AllowRequest("client1", now));      // false (6th)
+            Console.WriteLine(limiter.AllowRequest("client2", now));      // true (other client)
         }
     }
 
+    /// <summary>
+    /// Rate limiter using a sliding window: allows at most maxRequests per client
+    /// within the last windowSeconds. Each client is tracked independently.
+    /// </summary>
     public class SlidingWindowRateLimiter
     {
         private readonly int _maxRequests;
@@ -31,6 +35,11 @@ namespace RateLimiter
             _windowSeconds = windowSeconds;
         }
 
+        /// <summary>
+        /// Returns true if the request is allowed (under the limit); false if the client has exceeded the limit in the current window.
+        /// </summary>
+        /// <param name="clientId">Identifier for the client.</param>
+        /// <param name="now">Current time (used as the request time and window end).</param>
         public bool AllowRequest(string clientId, DateTime now)
         {
             var windowStart = now.AddSeconds(-_windowSeconds);
@@ -38,6 +47,7 @@ namespace RateLimiter
 
             lock (queue)
             {
+                // Drop timestamps outside the sliding window
                 while (queue.Count > 0 && queue.Peek() < windowStart)
                     queue.Dequeue();
 
