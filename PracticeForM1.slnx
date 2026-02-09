@@ -1,16 +1,20 @@
 <Solution>
   <Folder Name="/Complex Scenario-Based Coding Questions/">
+    <Project Path="ProducerConsumerOrderProcessing/ProducerConsumerOrderProcessing.csproj" />
     <Project Path="RateLimiter/RateLimiter.csproj" Id="d9370cef-72a9-4dfa-a93d-ff98588f1f99" />
     <Project Path="ResilientPaymentGateway/ResilientPaymentGateway.csproj" />
-    <Project Path="ProducerConsumerOrderProcessing/ProducerConsumerOrderProcessing.csproj" />
     <Project Path="TransactionalMoneyTransfer/TransactionalMoneyTransfer.csproj" />
   </Folder>
   <Project Path="01Strings/01Strings.csproj" />
+  <Project Path="Banking/Banking.csproj" Id="1fed523e-827d-451f-98c5-ed423c960e66" />
+  <Project Path="CabFare/CabFare.csproj" Id="44f381d6-8e61-4f72-90cc-70d18dc6275c" />
   <Project Path="Collection/Collection.csproj" />
   <Project Path="DateAndTime/DateAndTime.csproj" />
+  <Project Path="EmployeeOnboarding/EmployeeOnboarding.csproj" Id="70af1769-afa9-401d-ab83-a3b86ed9c550" />
   <Project Path="Exception/M1Exception.csproj" />
   <Project Path="HotelRoomBookingSystem/HotelRoomBookingSystem.csproj" Id="8b75be52-0284-456c-b389-c1bd378fe0b9" />
   <Project Path="Interface/Interface.csproj" Id="22750bf5-9654-468a-bb6c-3825785c9dc6" />
   <Project Path="LibraryManagementSystem/LibraryManagementSystem.csproj" />
   <Project Path="PasswordGeneration/PasswordGeneration.csproj" />
+  <Project Path="Social Media Post Management/Social Media Post Management.csproj" Id="ce18c083-7afd-4fd9-a9dd-4e4f13806ade" />
 </Solution>
