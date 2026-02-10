@@ -17,14 +17,14 @@ namespace InterfaceExample
             void DoSomethingElse();
         }
 
-        class ExampleImplementation : IExample, IAnotherExample
+        
+        class ExampleImplementation:IExample, IAnotherExample
         {
-            public void DoSomethingElse()
+            public void DosomethingElse()
             {
                 Console.WriteLine("Doing something else!");
             }
         }
-
         static void Main(string[] args)
         {
             Console.WriteLine("Interface Example");
