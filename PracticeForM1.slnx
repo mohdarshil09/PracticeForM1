@@ -10,6 +10,7 @@
   <Project Path="CabFare/CabFare.csproj" Id="44f381d6-8e61-4f72-90cc-70d18dc6275c" />
   <Project Path="Collection/Collection.csproj" />
   <Project Path="DateAndTime/DateAndTime.csproj" />
+  <Project Path="E-Commerce Inventory System/E-Commerce Inventory System.csproj" Id="82638b32-b0a7-4381-9f5f-377014831d02" />
   <Project Path="EcommerceDiscount/EcommerceDiscount.csproj" Id="591f23bf-955f-4e24-8e52-1d20d9135dd5" />
   <Project Path="EmployeeOnboarding/EmployeeOnboarding.csproj" Id="70af1769-afa9-401d-ab83-a3b86ed9c550" />
   <Project Path="Exception/M1Exception.csproj" />
