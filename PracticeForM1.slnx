@@ -21,6 +21,8 @@
   <Project Path="Palindrome_check/Palindrome_check.csproj" Id="9c411da6-d10f-41d1-878b-ff81bca06959" />
   <Project Path="PasswordGeneration/PasswordGeneration.csproj" />
   <Project Path="reflection/reflection.csproj" Id="e75358eb-cf9b-4dbe-84e5-9d3678700d99" />
+  <Project Path="RemoveDuplicate_usingHashSet/RemoveDuplicate_usingHashSet.csproj" Id="3f122642-2f1e-46de-9f33-a35e2b9b2549" />
+  <Project Path="ReverseStringWithinbuildFunction/ReverseStringWithoutinbuildFunction.csproj" Id="82c7ae54-45f1-4994-b5f5-abc8b758662c" />
   <Project Path="Scenario 2_ University Course Registration System/Scenario 2_ University Course Registration System.csproj" Id="3c5ab53e-f4b1-4b18-bb3f-20c325538dad" />
   <Project Path="Social Media Post Management/Social Media Post Management.csproj" Id="ce18c083-7afd-4fd9-a9dd-4e4f13806ade" />
 </Solution>
