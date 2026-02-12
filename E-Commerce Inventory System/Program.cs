@@ -1,7 +1,5 @@
 ﻿// Base product interface
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 public interface IProduct
 {
@@ -53,12 +51,6 @@ public class ProductRepository<T> where T : class, IProduct
         // Return sum of all product prices
         return _products.Sum(p => p.Price);
     }
-
-    // Expose all products
-    public List<T> GetAll()
-    {
-        return _products;
-    }
 }
 
 // 2. Specialized electronic product
@@ -70,16 +62,6 @@ public class ElectronicProduct : IProduct
     public Category Category => Category.Electronics;
     public int WarrantyMonths { get; set; }
     public string Brand { get; set; }
-}
-
-// Book product (required for test scenario)
-public class BookProduct : IProduct
-{
-    public int Id { get; set; }
-    public string Name { get; set; }
-    public decimal Price { get; set; }
-    public Category Category => Category.Books;
-    public string Author { get; set; }
 }
 
 // 3. Create a discounted product wrapper
@@ -156,12 +138,14 @@ public class InventoryManager
     public void UpdatePrices<T>(List<T> products, Func<T, decimal> priceAdjuster)
         where T : IProduct
     {
+
         // Apply priceAdjuster to each product
         // Handle exceptions gracefully
         foreach (var product in products)
         {
             try
             {
+
                 var newPrice = priceAdjuster(product);
                 if (newPrice <= 0)
                     throw new InvalidOperationException("Updated price must be positive.");
@@ -202,13 +186,12 @@ public class InventoryManager
                     Brand = "Dell",
                     WarrantyMonths = 24
                 });
-
                 repo.AddProduct(new ElectronicProduct
                 {
                     Id = 6,
-                    Name = "iPhone",
+                    Name = "IPhone",
                     Price = 1200,
-                    Brand = "Apple",
+                    Brand = "Dell",
                     WarrantyMonths = 24
                 });
 
@@ -261,8 +244,9 @@ public class InventoryManager
             foreach (var item in dellProducts)
                 Console.WriteLine(item.Name);
 
+
             var manager = new InventoryManager();
-            manager.ProcessProducts(repo.GetAll());
+            manager.ProcessProducts(repo.GerAll());
 
             Console.WriteLine("\nBulk Price Increase by 5%:");
             manager.UpdatePrices(repo.GetAll(), p => p.Price * 1.05m);
@@ -271,5 +255,3 @@ public class InventoryManager
             Console.WriteLine(repo.CalculateTotalValue());
         }
     }
-}
-1

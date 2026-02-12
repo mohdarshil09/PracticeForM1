@@ -17,6 +17,8 @@
   <Project Path="HotelRoomBookingSystem/HotelRoomBookingSystem.csproj" Id="8b75be52-0284-456c-b389-c1bd378fe0b9" />
   <Project Path="Interface/Interface.csproj" Id="22750bf5-9654-468a-bb6c-3825785c9dc6" />
   <Project Path="LibraryManagementSystem/LibraryManagementSystem.csproj" />
+  <Project Path="MergeSortedArr/MergeSortedArr.csproj" Id="4c7404a3-16b4-4905-a82a-2100d2370200" />
+  <Project Path="Palindrome_check/Palindrome_check.csproj" Id="9c411da6-d10f-41d1-878b-ff81bca06959" />
   <Project Path="PasswordGeneration/PasswordGeneration.csproj" />
   <Project Path="reflection/reflection.csproj" Id="e75358eb-cf9b-4dbe-84e5-9d3678700d99" />
   <Project Path="Scenario 2_ University Course Registration System/Scenario 2_ University Course Registration System.csproj" Id="3c5ab53e-f4b1-4b18-bb3f-20c325538dad" />
