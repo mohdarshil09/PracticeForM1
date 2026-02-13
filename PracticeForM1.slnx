@@ -13,6 +13,7 @@
   <Project Path="E-Commerce Inventory System/Scenario 1 E-Commerce Inventory System.csproj" Id="82638b32-b0a7-4381-9f5f-377014831d02" />
   <Project Path="EcommerceDiscount/EcommerceDiscount.csproj" Id="591f23bf-955f-4e24-8e52-1d20d9135dd5" />
   <Project Path="EmployeeOnboarding/EmployeeOnboarding.csproj" Id="70af1769-afa9-401d-ab83-a3b86ed9c550" />
+  <Project Path="EmployeePolym/EmployeePolym.csproj" Id="b6ad1c3c-6e29-4673-804c-5a7e763259cd" />
   <Project Path="Exception/M1Exception.csproj" />
   <Project Path="HotelRoomBookingSystem/HotelRoomBookingSystem.csproj" Id="8b75be52-0284-456c-b389-c1bd378fe0b9" />
   <Project Path="Interface/Interface.csproj" Id="22750bf5-9654-468a-bb6c-3825785c9dc6" />
@@ -20,9 +21,12 @@
   <Project Path="MergeSortedArr/MergeSortedArr.csproj" Id="4c7404a3-16b4-4905-a82a-2100d2370200" />
   <Project Path="Palindrome_check/Palindrome_check.csproj" Id="9c411da6-d10f-41d1-878b-ff81bca06959" />
   <Project Path="PasswordGeneration/PasswordGeneration.csproj" />
+  <Project Path="Person_GetDetail/Person_GetDetail.csproj" Id="4c8b1845-b179-4114-a709-360379cd8e1f" />
   <Project Path="reflection/reflection.csproj" Id="e75358eb-cf9b-4dbe-84e5-9d3678700d99" />
   <Project Path="RemoveDuplicate_usingHashSet/RemoveDuplicate_usingHashSet.csproj" Id="3f122642-2f1e-46de-9f33-a35e2b9b2549" />
   <Project Path="ReverseStringWithinbuildFunction/ReverseStringWithoutinbuildFunction.csproj" Id="82c7ae54-45f1-4994-b5f5-abc8b758662c" />
   <Project Path="Scenario 2_ University Course Registration System/Scenario 2_ University Course Registration System.csproj" Id="3c5ab53e-f4b1-4b18-bb3f-20c325538dad" />
+  <Project Path="Shape_Perimeter/Shape_Perimeter.csproj" Id="d24485e4-7c80-44f3-919e-7a5ba1249f14" />
   <Project Path="Social Media Post Management/Social Media Post Management.csproj" Id="ce18c083-7afd-4fd9-a9dd-4e4f13806ade" />
+  <Project Path="VehiclePolym/VehiclePolym.csproj" Id="35071138-1f22-410b-a6ef-31b3e871a2e5" />
 </Solution>
