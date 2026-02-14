@@ -28,5 +28,6 @@
   <Project Path="Scenario 2_ University Course Registration System/Scenario 2_ University Course Registration System.csproj" Id="3c5ab53e-f4b1-4b18-bb3f-20c325538dad" />
   <Project Path="Shape_Perimeter/Shape_Perimeter.csproj" Id="d24485e4-7c80-44f3-919e-7a5ba1249f14" />
   <Project Path="Social Media Post Management/Social Media Post Management.csproj" Id="ce18c083-7afd-4fd9-a9dd-4e4f13806ade" />
+  <Project Path="StringManupulation/StringManupulation.csproj" Id="e9dc6ffd-8cad-441f-ae5a-dab66026dea6" />
   <Project Path="VehiclePolym/VehiclePolym.csproj" Id="35071138-1f22-410b-a6ef-31b3e871a2e5" />
 </Solution>
