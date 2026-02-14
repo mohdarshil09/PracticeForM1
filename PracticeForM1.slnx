@@ -29,5 +29,6 @@
   <Project Path="Shape_Perimeter/Shape_Perimeter.csproj" Id="d24485e4-7c80-44f3-919e-7a5ba1249f14" />
   <Project Path="Social Media Post Management/Social Media Post Management.csproj" Id="ce18c083-7afd-4fd9-a9dd-4e4f13806ade" />
   <Project Path="StringManupulation/StringManupulation.csproj" Id="e9dc6ffd-8cad-441f-ae5a-dab66026dea6" />
+  <Project Path="StringQuestion2/StringQuestion2.csproj" Id="c74f1189-4846-4f8f-acc1-d647baef51eb" />
   <Project Path="VehiclePolym/VehiclePolym.csproj" Id="35071138-1f22-410b-a6ef-31b3e871a2e5" />
 </Solution>
