@@ -22,6 +22,7 @@
   <Project Path="Palindrome_check/Palindrome_check.csproj" Id="9c411da6-d10f-41d1-878b-ff81bca06959" />
   <Project Path="PasswordGeneration/PasswordGeneration.csproj" />
   <Project Path="Person_GetDetail/Person_GetDetail.csproj" Id="4c8b1845-b179-4114-a709-360379cd8e1f" />
+  <Project Path="Pharmacy Medicine Inventory System/Pharmacy Medicine Inventory System.csproj" Id="9e136a1f-c7ce-4dc7-b0fe-55d4a4e97c38" />
   <Project Path="reflection/reflection.csproj" Id="e75358eb-cf9b-4dbe-84e5-9d3678700d99" />
   <Project Path="RemoveDuplicate_usingHashSet/RemoveDuplicate_usingHashSet.csproj" Id="3f122642-2f1e-46de-9f33-a35e2b9b2549" />
   <Project Path="ReverseStringWithinbuildFunction/ReverseStringWithoutinbuildFunction.csproj" Id="82c7ae54-45f1-4994-b5f5-abc8b758662c" />
