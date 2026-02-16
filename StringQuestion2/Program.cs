@@ -47,7 +47,7 @@ namespace StringQuestion2
                     res.Add(0);
             }
 
-            return res;  // ✅ outside loop
+            return res;  
         }
 
         static bool isvalid(string str)
