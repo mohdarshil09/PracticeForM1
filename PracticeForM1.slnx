@@ -9,8 +9,11 @@
   <Project Path="Attendance – First Unique Entry/Attendance – First Unique Entry.csproj" Id="3f23f935-d5d2-4a5a-b654-c31f2480bb42" />
   <Project Path="Bank Statement – Spend by Category/Bank Statement – Spend by Category.csproj" Id="1056b68e-5485-4a12-b9a5-39d5c22ebc8e" />
   <Project Path="Banking/Banking.csproj" Id="1fed523e-827d-451f-98c5-ed423c960e66" />
+  <Project Path="Book Store Application/Book Store Application.csproj" Id="b6ecea23-9441-4faf-9276-1d0758b26a9b" />
   <Project Path="CabFare/CabFare.csproj" Id="44f381d6-8e61-4f72-90cc-70d18dc6275c" />
+  <Project Path="Challenge 2Library Book Management System/Challenge 2Library Book Management System.csproj" Id="0c8404ce-8b18-4b97-9814-1553b078fc7a" />
   <Project Path="Collection/Collection.csproj" />
+  <Project Path="Count Vowels, Consonants, Digits, Specials/Count Vowels, Consonants, Digits, Specials.csproj" Id="b2c1e98f-1224-4b3f-affa-61df6af88d58" />
   <Project Path="Count Words and Print by Highest Count/Count Words and Print by Highest Count.csproj" Id="f7db72fc-6bb2-4a2e-beb6-2dbcde34263b" />
   <Project Path="DateAndTime/DateAndTime.csproj" />
   <Project Path="E-Commerce Inventory System/Scenario 1 E-Commerce Inventory System.csproj" Id="82638b32-b0a7-4381-9f5f-377014831d02" />
@@ -19,6 +22,7 @@
   <Project Path="EmployeePolym/EmployeePolym.csproj" Id="b6ad1c3c-6e29-4673-804c-5a7e763259cd" />
   <Project Path="Exception/M1Exception.csproj" />
   <Project Path="First Non-Repeating Character/First Non-Repeating Character.csproj" Id="a902a276-784c-427c-ac43-d13d84dc819f" />
+  <Project Path="Hospital Patient Management System/Hospital Patient Management System.csproj" Id="04eb709a-6f7c-4c03-a041-10130cf063b8" />
   <Project Path="HotelRoomBookingSystem/HotelRoomBookingSystem.csproj" Id="8b75be52-0284-456c-b389-c1bd378fe0b9" />
   <Project Path="Interface/Interface.csproj" Id="22750bf5-9654-468a-bb6c-3825785c9dc6" />
   <Project Path="Inventory – Detect Duplicate Serials/Inventory – Detect Duplicate Serials.csproj" Id="05746c18-98e5-4f4d-8d0c-efa86209f615" />
