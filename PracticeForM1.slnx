@@ -7,6 +7,7 @@
   </Folder>
   <Project Path="01Strings/01Strings.csproj" />
   <Project Path="Attendance – First Unique Entry/Attendance – First Unique Entry.csproj" Id="3f23f935-d5d2-4a5a-b654-c31f2480bb42" />
+  <Project Path="Bank Statement – Spend by Category/Bank Statement – Spend by Category.csproj" Id="1056b68e-5485-4a12-b9a5-39d5c22ebc8e" />
   <Project Path="Banking/Banking.csproj" Id="1fed523e-827d-451f-98c5-ed423c960e66" />
   <Project Path="CabFare/CabFare.csproj" Id="44f381d6-8e61-4f72-90cc-70d18dc6275c" />
   <Project Path="Collection/Collection.csproj" />
@@ -18,6 +19,7 @@
   <Project Path="Exception/M1Exception.csproj" />
   <Project Path="HotelRoomBookingSystem/HotelRoomBookingSystem.csproj" Id="8b75be52-0284-456c-b389-c1bd378fe0b9" />
   <Project Path="Interface/Interface.csproj" Id="22750bf5-9654-468a-bb6c-3825785c9dc6" />
+  <Project Path="Inventory – Detect Duplicate Serials/Inventory – Detect Duplicate Serials.csproj" Id="05746c18-98e5-4f4d-8d0c-efa86209f615" />
   <Project Path="Leaderboard – Top K Scores/Leaderboard – Top K Scores.csproj" Id="b9f4b7c9-9708-4a2f-87c5-b9e90766224e" />
   <Project Path="LibraryManagementSystem/LibraryManagementSystem.csproj" />
   <Project Path="MergeSortedArr/MergeSortedArr.csproj" Id="4c7404a3-16b4-4905-a82a-2100d2370200" />
