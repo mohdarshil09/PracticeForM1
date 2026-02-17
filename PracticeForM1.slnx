@@ -22,6 +22,11 @@
   <Project Path="EmployeePolym/EmployeePolym.csproj" Id="b6ad1c3c-6e29-4673-804c-5a7e763259cd" />
   <Project Path="Exception/M1Exception.csproj" />
   <Project Path="First Non-Repeating Character/First Non-Repeating Character.csproj" Id="a902a276-784c-427c-ac43-d13d84dc819f" />
+  <Project Path="Func Delegate Generic Calculator/Func Delegate Generic Calculator.csproj" Id="0b9970d6-3646-4c44-8d0c-f1d9bb405b4e" />
+  <Project Path="Generic Constraint Accept Only Reference Types/Generic Constraint Accept Only Reference Types.csproj" Id="495537c2-18ae-4163-abeb-aa0c72d2f70e" />
+  <Project Path="Generic Constraint Numeric-like Aggregation (struct)/Generic Constraint Numeric-like Aggregation (struct).csproj" Id="f452d35c-e126-43d5-821d-057c252ba632" />
+  <Project Path="Generic Repository Add &amp; Get/Generic Repository Add &amp; Get.csproj" Id="203a1cd3-6747-49de-839a-9b8d9561deb0" />
+  <Project Path="Generic Swap Utility (Type-safe)/Generic Swap Utility (Type-safe).csproj" Id="815af35b-15e3-4521-8941-79bd49e7cab3" />
   <Project Path="Hospital Patient Management System/Hospital Patient Management System.csproj" Id="04eb709a-6f7c-4c03-a041-10130cf063b8" />
   <Project Path="HotelRoomBookingSystem/HotelRoomBookingSystem.csproj" Id="8b75be52-0284-456c-b389-c1bd378fe0b9" />
   <Project Path="Interface/Interface.csproj" Id="22750bf5-9654-468a-bb6c-3825785c9dc6" />
@@ -31,11 +36,13 @@
   <Project Path="Log Analyzer – Most Frequent Error Code/Log Analyzer – Most Frequent Error Code.csproj" Id="aa9a22db-42fc-430c-b98c-8f43224c163e" />
   <Project Path="MergeSortedArr/MergeSortedArr.csproj" Id="4c7404a3-16b4-4905-a82a-2100d2370200" />
   <Project Path="Most Frequent Character/Most Frequent Character.csproj" Id="03efbc78-3c1f-4097-92dc-1725e5f2b149" />
+  <Project Path="Multicast Delegate Notification Pipeline/Multicast Delegate Notification Pipeline.csproj" Id="0cea954c-2018-436e-b5f5-a1639092d7b7" />
   <Project Path="Palindrome Check (ignore spaces + case)/Palindrome Check (ignore spaces + case).csproj" Id="caa94105-ad7d-4543-ad64-7a2ebaf5996d" />
   <Project Path="Palindrome_check/Palindrome_check.csproj" Id="9c411da6-d10f-41d1-878b-ff81bca06959" />
   <Project Path="PasswordGeneration/PasswordGeneration.csproj" />
   <Project Path="Person_GetDetail/Person_GetDetail.csproj" Id="4c8b1845-b179-4114-a709-360379cd8e1f" />
   <Project Path="Pharmacy Medicine Inventory System/Pharmacy Medicine Inventory System.csproj" Id="9e136a1f-c7ce-4dc7-b0fe-55d4a4e97c38" />
+  <Project Path="Predicate T  Filter with Generic List/Predicate T  Filter with Generic List.csproj" Id="93292fac-dcd7-4ed7-a53f-a5f748d570ec" />
   <Project Path="reflection/reflection.csproj" Id="e75358eb-cf9b-4dbe-84e5-9d3678700d99" />
   <Project Path="RemoveDuplicate_usingHashSet/RemoveDuplicate_usingHashSet.csproj" Id="3f122642-2f1e-46de-9f33-a35e2b9b2549" />
   <Project Path="ReverseStringWithinbuildFunction/ReverseStringWithoutinbuildFunction.csproj" Id="82c7ae54-45f1-4994-b5f5-abc8b758662c" />
