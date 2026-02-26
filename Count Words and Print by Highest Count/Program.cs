@@ -12,7 +12,7 @@
         static string Solve(string s)
         {
             Dictionary<string, int> freq = new Dictionary<string, int>();
-            string[] words = s.Split(new char[] { ' ', '\t', '\n', '\r' }, StringSplitOptions.RemoveEmptyEntries);
+            string[] words = s.Split( ' ', StringSplitOptions.RemoveEmptyEntries);
             foreach (string word in words)
             {
                 string w=word.ToLower();
@@ -21,7 +21,9 @@
             var sorted = freq
                 .OrderByDescending(p => p.Value)
                 .ThenBy(p => p.Key);
-            return string.Join(Environment.NewLine, sorted.Select(p => $"{p.Key}: {p.Value}"));
+
+          
+            return string.Join(" ", sorted.Select(p => $"{p.Key}: {p.Value}"));
         }
     }
 }

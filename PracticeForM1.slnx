@@ -9,8 +9,10 @@
   <Project Path="Attendance – First Unique Entry/Attendance – First Unique Entry.csproj" Id="3f23f935-d5d2-4a5a-b654-c31f2480bb42" />
   <Project Path="Bank Statement – Spend by Category/Bank Statement – Spend by Category.csproj" Id="1056b68e-5485-4a12-b9a5-39d5c22ebc8e" />
   <Project Path="Banking/Banking.csproj" Id="1fed523e-827d-451f-98c5-ed423c960e66" />
+  <Project Path="Book Store 2/Book Store 2.csproj" Id="877c406b-ba63-46f0-9004-09ba1bcd3996" />
   <Project Path="Book Store Application/Book Store Application.csproj" Id="b6ecea23-9441-4faf-9276-1d0758b26a9b" />
   <Project Path="CabFare/CabFare.csproj" Id="44f381d6-8e61-4f72-90cc-70d18dc6275c" />
+  <Project Path="CampusHire Applicant Management System/CampusHire Applicant Management System.csproj" Id="972156dc-0a4b-4c3b-b46c-bb73ec6fe0ec" />
   <Project Path="Challenge 2Library Book Management System/Challenge 2Library Book Management System.csproj" Id="0c8404ce-8b18-4b97-9814-1553b078fc7a" />
   <Project Path="Collection/Collection.csproj" />
   <Project Path="Count Vowels, Consonants, Digits, Specials/Count Vowels, Consonants, Digits, Specials.csproj" Id="b2c1e98f-1224-4b3f-affa-61df6af88d58" />
@@ -21,6 +23,7 @@
   <Project Path="EmployeeOnboarding/EmployeeOnboarding.csproj" Id="70af1769-afa9-401d-ab83-a3b86ed9c550" />
   <Project Path="EmployeePolym/EmployeePolym.csproj" Id="b6ad1c3c-6e29-4673-804c-5a7e763259cd" />
   <Project Path="Exception/M1Exception.csproj" />
+  <Project Path="Extract Numbers from a Sentence/Extract Numbers from a Sentence.csproj" Id="7ba9f9a6-f89a-48ab-95fa-36079b4630e1" />
   <Project Path="First Non-Repeating Character/First Non-Repeating Character.csproj" Id="a902a276-784c-427c-ac43-d13d84dc819f" />
   <Project Path="Func Delegate Generic Calculator/Func Delegate Generic Calculator.csproj" Id="0b9970d6-3646-4c44-8d0c-f1d9bb405b4e" />
   <Project Path="Generic Constraint Accept Only Reference Types/Generic Constraint Accept Only Reference Types.csproj" Id="495537c2-18ae-4163-abeb-aa0c72d2f70e" />
@@ -43,14 +46,17 @@
   <Project Path="Person_GetDetail/Person_GetDetail.csproj" Id="4c8b1845-b179-4114-a709-360379cd8e1f" />
   <Project Path="Pharmacy Medicine Inventory System/Pharmacy Medicine Inventory System.csproj" Id="9e136a1f-c7ce-4dc7-b0fe-55d4a4e97c38" />
   <Project Path="Predicate T  Filter with Generic List/Predicate T  Filter with Generic List.csproj" Id="93292fac-dcd7-4ed7-a53f-a5f748d570ec" />
+  <Project Path="PredicateTFilter a List/PredicateTFilter a List.csproj" Id="b405fe54-bfcd-4ee4-b856-5b47ce2ab062" />
   <Project Path="reflection/reflection.csproj" Id="e75358eb-cf9b-4dbe-84e5-9d3678700d99" />
   <Project Path="RemoveDuplicate_usingHashSet/RemoveDuplicate_usingHashSet.csproj" Id="3f122642-2f1e-46de-9f33-a35e2b9b2549" />
   <Project Path="ReverseStringWithinbuildFunction/ReverseStringWithoutinbuildFunction.csproj" Id="82c7ae54-45f1-4994-b5f5-abc8b758662c" />
   <Project Path="Scenario 2_ University Course Registration System/Scenario 2_ University Course Registration System.csproj" Id="3c5ab53e-f4b1-4b18-bb3f-20c325538dad" />
   <Project Path="Shape_Perimeter/Shape_Perimeter.csproj" Id="d24485e4-7c80-44f3-919e-7a5ba1249f14" />
+  <Project Path="Smart Banking System/Smart Banking System.csproj" Id="5f031987-8f23-42fc-b825-b6f80fb8201d" />
   <Project Path="Social Media Post Management/Social Media Post Management.csproj" Id="ce18c083-7afd-4fd9-a9dd-4e4f13806ade" />
   <Project Path="Sort Characters by Frequency (desc)/Sort Characters by Frequency (desc).csproj" Id="9c977159-c596-465c-b336-7751a54a52a2" />
   <Project Path="StringManupulation/StringManupulation.csproj" Id="e9dc6ffd-8cad-441f-ae5a-dab66026dea6" />
   <Project Path="StringQuestion2/StringQuestion2.csproj" Id="c74f1189-4846-4f8f-acc1-d647baef51eb" />
+  <Project Path="Validate Email/Validate Email.csproj" Id="1323710f-3c06-469a-9e86-391c882efeae" />
   <Project Path="VehiclePolym/VehiclePolym.csproj" Id="35071138-1f22-410b-a6ef-31b3e871a2e5" />
 </Solution>

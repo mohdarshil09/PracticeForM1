@@ -17,7 +17,7 @@ namespace Book_Store_Application
         // 🔹 BookUtility Class
         class BookUtility
         {
-            private Book book;
+            public Book book;
 
             // Constructor injection (Encapsulation)
             public BookUtility(Book book)
